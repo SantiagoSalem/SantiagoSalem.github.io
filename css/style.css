@@ -18,7 +18,7 @@
 	}
 
 	body {
-		background: white;
+		background: #348cb2 url("images/bg.jpg") bottom left;
 		overflow: hidden;
 	}
 
